@@ -21,7 +21,7 @@ public class DuplicateElement {
         for(i=0; i<s.length; i++)
             a[i] = Integer.parseInt(s[i]);
 
-        Set<Integer> uniqueNum = new HashSet<>(); // unordered collection of objects which disregards duplicate values
+        HashSet<Integer> uniqueNum = new HashSet<>(); // unordered collection of objects which disregards duplicate values
         boolean duplicateFound = false; // flag
 
         // push each element of array into the set whilst checking for duplicates
