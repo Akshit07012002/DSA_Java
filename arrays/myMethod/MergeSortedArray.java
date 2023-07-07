@@ -5,7 +5,7 @@ import java.io.*;
 public class MergeSortedArray {
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-
+        System.out.println("Unsorted Array : ");
         String[] s1 = new String[1];
         s1 = in.readLine().split(",");
 
