@@ -1,4 +1,4 @@
-package arrays.myMethod;
+
 
 import java.io.*;
 import java.util.HashSet;

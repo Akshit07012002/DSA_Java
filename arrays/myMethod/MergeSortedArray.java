@@ -1,4 +1,4 @@
-package arrays.myMethod;
+// package arrays.myMethod;
 
 import java.io.*;
 
